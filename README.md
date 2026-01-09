@@ -14,3 +14,8 @@ Analisar os dados de uma locadora de filmes utilizando SQL, com o objetivo de co
 - Locais com as melhores locações de filmes
 - Categorias com maior volume de aluguel
 - Identificação de títulos com baixa rotatividade no catálogo
+
+## 🗄️ Consultas SQL
+- Joins entre tabelas de filmes, categorias e locações
+- Agregações para cálculo de volume de locações
+- Ordenação e filtros para ranking de filmes
